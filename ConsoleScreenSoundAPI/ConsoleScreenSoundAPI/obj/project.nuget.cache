@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8f1Q/K+9y3IGu7t9lRRnBX9sr/ngz67+6qly1hDFy0t6u6gSOtJV6BUB9fUdg1H/ZJ4yb2vvwN/bpLRYretzwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danid\\source\\repos\\ConsoleScreenSoundAPI\\ConsoleScreenSoundAPI\\ConsoleScreenSoundAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danid\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\danid\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\danid\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\danid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

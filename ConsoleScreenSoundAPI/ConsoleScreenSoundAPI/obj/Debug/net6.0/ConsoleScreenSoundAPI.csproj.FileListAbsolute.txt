@@ -1,0 +1,15 @@
+C:\Users\danid\source\repos\ConsoleScreenSoundAPI\ConsoleScreenSoundAPI\bin\Debug\net6.0\ConsoleScreenSoundAPI.exe
+C:\Users\danid\source\repos\ConsoleScreenSoundAPI\ConsoleScreenSoundAPI\bin\Debug\net6.0\ConsoleScreenSoundAPI.deps.json
+C:\Users\danid\source\repos\ConsoleScreenSoundAPI\ConsoleScreenSoundAPI\bin\Debug\net6.0\ConsoleScreenSoundAPI.runtimeconfig.json
+C:\Users\danid\source\repos\ConsoleScreenSoundAPI\ConsoleScreenSoundAPI\bin\Debug\net6.0\ConsoleScreenSoundAPI.dll
+C:\Users\danid\source\repos\ConsoleScreenSoundAPI\ConsoleScreenSoundAPI\bin\Debug\net6.0\ConsoleScreenSoundAPI.pdb
+C:\Users\danid\source\repos\ConsoleScreenSoundAPI\ConsoleScreenSoundAPI\obj\Debug\net6.0\ConsoleScreenSoundAPI.csproj.AssemblyReference.cache
+C:\Users\danid\source\repos\ConsoleScreenSoundAPI\ConsoleScreenSoundAPI\obj\Debug\net6.0\ConsoleScreenSoundAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\source\repos\ConsoleScreenSoundAPI\ConsoleScreenSoundAPI\obj\Debug\net6.0\ConsoleScreenSoundAPI.AssemblyInfoInputs.cache
+C:\Users\danid\source\repos\ConsoleScreenSoundAPI\ConsoleScreenSoundAPI\obj\Debug\net6.0\ConsoleScreenSoundAPI.AssemblyInfo.cs
+C:\Users\danid\source\repos\ConsoleScreenSoundAPI\ConsoleScreenSoundAPI\obj\Debug\net6.0\ConsoleScreenSoundAPI.csproj.CoreCompileInputs.cache
+C:\Users\danid\source\repos\ConsoleScreenSoundAPI\ConsoleScreenSoundAPI\obj\Debug\net6.0\ConsoleScreenSoundAPI.dll
+C:\Users\danid\source\repos\ConsoleScreenSoundAPI\ConsoleScreenSoundAPI\obj\Debug\net6.0\refint\ConsoleScreenSoundAPI.dll
+C:\Users\danid\source\repos\ConsoleScreenSoundAPI\ConsoleScreenSoundAPI\obj\Debug\net6.0\ConsoleScreenSoundAPI.pdb
+C:\Users\danid\source\repos\ConsoleScreenSoundAPI\ConsoleScreenSoundAPI\obj\Debug\net6.0\ConsoleScreenSoundAPI.genruntimeconfig.cache
+C:\Users\danid\source\repos\ConsoleScreenSoundAPI\ConsoleScreenSoundAPI\obj\Debug\net6.0\ref\ConsoleScreenSoundAPI.dll
